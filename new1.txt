@@ -1,1 +1,2 @@
 This file is testing to upload git hub.
+after merge 2 line delete i am adding 2 line 
